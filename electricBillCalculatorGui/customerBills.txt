@@ -1,0 +1,14 @@
+Account Number: 0123456789
+Company classification code: S
+Total number of KWH used: $9,250.00
+Amount Due: $463.61
+*********************************************
+*********************************************
+Account Number: 9876543210
+Company classification code: C
+Total number of KWH used: $5,260.00
+Amount Due: $339.27
+Late Fee: $50.89
+Total Due: $390.16
+*********************************************
+*********************************************

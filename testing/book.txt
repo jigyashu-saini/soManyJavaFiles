@@ -1,0 +1,27 @@
+Savitch
+Java: Problem Solving and Programming
+$139.95
+Liang
+Introduction to Java Programming
+$97.00
+Gaddis
+Starting Out With Java
+$120.00
+Beck
+Pascal: A guided Tour
+$34.59
+Stallings
+Computer Security
+$76.99
+Hartley
+Concurrent Programming
+$145.00
+Warford
+Computer Systems
+$134.00
+Ford
+Data Structures with C++
+$39.99
+Roberts
+Thinking Recursively
+$65.50

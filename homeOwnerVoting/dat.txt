@@ -1,0 +1,10 @@
+6908201234081#Molokape#23#Samuel St#Yes
+9702019876087#Khan#12#Henry St#No
+7612123456087#Jacobson#4#Main Rd#No
+8809295566083#Botha#10#Samuel St#Yes
+6705188223082#Xi Ling#3#Main Rd#No
+4507163423080#Mazibuko#7#Henry St#Yes
+5611119876098#MacKenzie#17t#Main St#No
+7204044354680#Naicker#23#Park St#Yes
+8012128374978#Swart#8#Main Rd#Yes
+9706036123457#Naude#16#Park St#Yes
